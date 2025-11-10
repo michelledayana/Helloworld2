@@ -1,0 +1,24 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "A simple Node.js + Express web app that prints: Hello World from Cloud!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michelledayana/Helloworld.git"
+  },
+  "keywords": [],
+  "author": "Dayana Heredia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michelledayana/Helloworld/issues"
+  },
+  "homepage": "https://github.com/michelledayana/Helloworld#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
